@@ -1,0 +1,16 @@
+# Bonsai scripting files
+.vs
+bin
+obj
+Packages
+bonsai_models
+data
+models
+*.bin
+*.avi
+*.dll
+*.exe
+*.csv
+*.exe.settings
+*.slp
+
